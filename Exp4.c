@@ -56,15 +56,15 @@ void display() {
 }
 
 int main() {
-    enqueue(10);
-    enqueue(20);
-    enqueue(30);
+    enqueue(39);
+    enqueue(78);
+    enqueue(117);
     display(); 
 
     dequeue(); 
     display(); 
     
-    enqueue(40);
+    enqueue(156);
     display(); 
 
     dequeue(); 
