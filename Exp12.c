@@ -38,7 +38,7 @@ void printInventory(int arr[], int size) {
 
 int main() {
     // Our inventory list of product IDs. MUST BE SORTED!
-    int productIDs[] = {101, 115, 124, 230, 235, 451, 512, 520, 600, 724, 750, 890};
+    int productIDs[] = {39,78,117,156,195,234,273,312,351,390};
     int n = sizeof(productIDs) / sizeof(productIDs[0]);
     int idToFind;
 
